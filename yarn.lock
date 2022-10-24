@@ -229,10 +229,10 @@
   dependencies:
     "buffer" "~6.0.3"
 
-"@solana/web3.js@^1.30.2":
-  "integrity" "sha512-AAVW9vGqYo8m2kMdwQtzEFuEBT21D0Z13wCzGC0lv4vay1BaqDUGSangmakeDEirtIsaAtM0gfAPu1YNLkIy/Q=="
-  "resolved" "https://registry.npmjs.org/@solana/web3.js/-/web3.js-1.66.1.tgz"
-  "version" "1.66.1"
+"@solana/web3.js@^1.30.2", "@solana/web3.js@^1.66.2":
+  "integrity" "sha512-RyaHMR2jGmaesnYP045VLeBGfR/gAW3cvZHzMFGg7bkO+WOYOYp1nEllf0/la4U4qsYGKCsO9eEevR5fhHiVHg=="
+  "resolved" "https://registry.npmjs.org/@solana/web3.js/-/web3.js-1.66.2.tgz"
+  "version" "1.66.2"
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@noble/ed25519" "^1.7.0"
