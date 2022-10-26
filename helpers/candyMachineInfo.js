@@ -1,5 +1,5 @@
 export const candyMachineAddress = "0xaa318e1f812a60b9b894d56fd2e940359838f022b17498301f05a9d9d5172c14";
-export const collectionName = "Aptos Deers"; // Case sensitive!
+export const collectionName = "AptosDeers"; // Case sensitive!
 export const collectionCoverUrl = "https://i.hizliresim.com/g2fyzyc.png";
 export const mode = "mainnet"; // "dev" or "test" or "mainnet"
 
